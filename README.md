@@ -40,7 +40,8 @@ This is a medium-complexity healthcare machine learning project built using **MA
 
 ##  App Interface Preview
 
-> *(Add a screenshot here if available, e.g., `app_screenshot.png`)*
+<img width="323" alt="image" src="https://github.com/user-attachments/assets/1123afc1-6352-4344-b74e-dbdc9d15ebd4" />
+
 
 ---
 ##  Sample Test Inputs
